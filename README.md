@@ -8,8 +8,8 @@
 
 ### 2. 문제 구분
 ##### 2_1. [이미지에서 얼굴을 인식할 수 있는가?](https://github.com/swallow8801/FaceRecognitionReport#1%EB%B2%88-%EB%AC%B8%EC%A0%9C--%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90%EC%84%9C-%EC%96%BC%EA%B5%B4%EC%9D%84-%EC%9D%B8%EC%8B%9D%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80)
-##### 2_2. 얼굴을 학습시키고 새로운 이미지를 주었을 때 어떤 인물인지 예측 및 판별이 가능한가?
-##### 2_3. 예측 및 판별이 가능하다면 그 정확성을 향상시키는 방법을 알아보자.
+##### 2_2. [얼굴을 학습시키고 새로운 이미지를 주었을 때 어떤 인물인지 예측 및 판별이 가능한가?](https://github.com/swallow8801/FaceRecognitionReport#2%EB%B2%88-%EB%AC%B8%EC%A0%9C--%EC%96%BC%EA%B5%B4%EC%9D%84-%ED%95%99%EC%8A%B5%EC%8B%9C%ED%82%A4%EA%B3%A0-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%A3%BC%EC%97%88%EC%9D%84-%EB%95%8C-%EC%96%B4%EB%96%A4-%EC%9D%B8%EB%AC%BC%EC%9D%B8%EC%A7%80-%EC%98%88%EC%B8%A1-%EB%B0%8F-%ED%8C%90%EB%B3%84%EC%9D%B4-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80)
+##### 2_3. [예측 및 판별이 가능하다면 그 정확성을 향상시키는 방법을 알아보자.](https://github.com/swallow8801/FaceRecognitionReport#3%EB%B2%88-%EB%AC%B8%EC%A0%9C--%EC%98%88%EC%B8%A1-%EB%B0%8F-%ED%8C%90%EB%B3%84%EC%9D%B4-%EA%B0%80%EB%8A%A5%ED%95%98%EB%8B%A4%EB%A9%B4-%EA%B7%B8-%EC%A0%95%ED%99%95%EC%84%B1%EC%9D%84-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 
 ### 3. 실습 환경
 ##### Tools : Python IDLE 
