@@ -46,6 +46,8 @@ def detect_faces(image_path):
 image_path = 'wonyoung1.jpg'
 detect_faces(image_path)
 ```
+#### [문제로 돌아가기](https://github.com/swallow8801/FaceRecognitionReport#2-%EB%AC%B8%EC%A0%9C-%EA%B5%AC%EB%B6%84)
+
 
 ## 2번 문제 : 얼굴을 학습시키고 새로운 이미지를 주었을 때 어떤 인물인지 예측 및 판별이 가능한가?
 
@@ -216,7 +218,7 @@ if __name__ == "__main__":
         show_prediction_labels_on_image(os.path.join("knn_examples/test", image_file), predictions)
 ```
 
-
+#### [문제로 돌아가기](https://github.com/swallow8801/FaceRecognitionReport#2-%EB%AC%B8%EC%A0%9C-%EA%B5%AC%EB%B6%84)
 
 
 ## 3번 문제 : 예측 및 판별이 가능하다면 그 정확성을 향상시키는 방법을 알아보자.
@@ -293,3 +295,6 @@ for i in range(no):
 pil_image.show()
 
 ```
+
+
+#### [문제로 돌아가기](https://github.com/swallow8801/FaceRecognitionReport#2-%EB%AC%B8%EC%A0%9C-%EA%B5%AC%EB%B6%84)
