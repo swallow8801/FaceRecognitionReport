@@ -1,4 +1,4 @@
-# 머신러닝 프로젝트
+ # 머신러닝 프로젝트
 2023.10 - 2023.11 진행된 머신러닝 프로젝트로 개인적으로 공부한 머신러닝 모듈을 사용하고 주력 언어인 Python을 사용해서 프로그램 개발을 했습니다.
 
 ## 프로젝트 소개
@@ -14,6 +14,10 @@
 ### 3. 실습 환경
 ##### Tools : Python IDLE 
 ##### Library : Pillow , Dlib , OpenCV , ScikitLearn - SVM,KNN,Logistic Regression Module
+
+
+### 4. 결과 확인
+##### 결과 확인
 
 
 
@@ -298,3 +302,7 @@ pil_image.show()
 
 
 #### [문제로 돌아가기](https://github.com/swallow8801/FaceRecognitionReport#2-%EB%AC%B8%EC%A0%9C-%EA%B5%AC%EB%B6%84)
+
+
+
+## 결과 확인
