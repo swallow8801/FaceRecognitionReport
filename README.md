@@ -17,7 +17,7 @@
 
 
 ### 4. 결과 확인
-##### [결과 확인](https://github.com/swallow8801/FaceRecognitionReport/blob/main/README.md#%EA%B2%B0%EA%B3%BC-%ED%99%95%EC%9D%B8-1)
+##### [결과 확인](https://github.com/swallow8801/FaceRecognitionReport#%EA%B2%B0%EA%B3%BC-%ED%99%95%EC%9D%B8-1)
 
 
 
