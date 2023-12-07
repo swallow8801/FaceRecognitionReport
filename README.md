@@ -308,3 +308,5 @@ pil_image.show()
 ## 결과 확인
 
 ![result202020](https://github.com/swallow8801/FaceRecognitionReport/assets/150134490/a5a0fd55-ffed-4f29-92a9-7b6570544480)
+
+![result103](https://github.com/swallow8801/FaceRecognitionReport/assets/150134490/fff8268a-02cc-4632-a410-4940db953c2f)
