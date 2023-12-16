@@ -1,5 +1,6 @@
  # 머신러닝 프로젝트
-#### 2023.10 - 2023.11 진행된 머신러닝 프로젝트로 개인적으로 공부한 머신러닝 모듈을 사용하고 주력 언어인 Python을 사용해서 프로그램 개발을 했습니다.
+#### 2023.10 - 2023.11 진행된 머신러닝 프로젝트로 개인적으로 공부한 머신러닝 모듈을 사용하고 
+#### 주력 언어인 Python을 사용해서 프로그램 개발을 했습니다.
 #### PPT [미리보기](https://docs.google.com/presentation/d/1wY2QqauyNRhbWbs5Ld34JenZjeL8rqKJ/edit?usp=drive_link&ouid=110582999063746602025&rtpof=true&sd=true)
 #### 리포트 [다운로드](https://drive.google.com/file/d/1WNOMY5uh_4yAG1c9O2qVdS4nSQFQ9B7P/view?usp=drive_link)
 
